@@ -27,6 +27,7 @@ header h1 {
     font-size: 1.5;
     margin-bottom: 7px;
     flex: 0 0 200px;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.39) ;
 
 }
 
@@ -57,6 +58,7 @@ main {
     width: 70vw;
     border-radius: 15px;
     margin: 10px auto;
+    box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.39);
 }
 
 main h2 {
